@@ -1,0 +1,73 @@
+body {
+    color: rgb(89, 92, 94);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    width: 80%;
+    margin: auto;
+}
+h1 {
+    font-size: 20px;
+    margin: 0 auto;
+    width: 300px;
+}
+.nav-border ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 10px;
+  }
+.nav-border li {
+    display: inline;
+}
+h3 {
+    text-align: right;
+    padding-right: 10px;
+}
+a {
+    color: #0A3761;
+    }
+.header-border {
+    border-style: double;
+    border-color: #0A3761;
+    margin: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+.nav-border {
+    border-style: dashed;
+    border-color: #0A3761;
+    margin: 20px;
+    padding: 20px, 20px, 20px, 20px;
+}
+.main-border {
+    border-style: solid;
+    border-color: #0A3761;
+    margin: 20px;
+    padding: 10px;
+}
+.footer-border {
+    border-style: dotted;
+    border-color: #0A3761;
+    margin: 20px;
+    padding-top: 10px;
+    padding-bottom: 20px;
+    padding-left: 75px;
+    padding-right: 75px;
+}
+.black-border {    
+    background-color: #666;
+    color: #fff;
+    font-weight: bold;
+    padding: 10px;
+    border-radius: 5px;
+    -webkit-border-radius: 5px;
+}
+.mailaddress {
+    color: #0A3761;
+}
+#green-background {
+    background-color: #49BDAC;
+    padding: 10px;
+    border-radius: 5px;
+    -webkit-border-radius: 5px;
+}
